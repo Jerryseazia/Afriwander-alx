@@ -33,7 +33,7 @@ Getting Started
 Installation:
 
 Clone the repository to your local machine.
-git clone https://github.com/Afriwander.git
+git clone https://github.com/Afriwander-alx.git
 Contributing:
 
 We welcome contributions! If you'd like to contribute to Tourist Explorer, please follow our contribution guidelines.
@@ -43,7 +43,7 @@ Share your thoughts, report issues, or suggest new features. We value your feedb
 Tech Stack
 HMTL CSS
 Boostrap
-Vue JS
+JQURY
 Js
 Contributors
 Jerry Seazia @Jerry Seazia
